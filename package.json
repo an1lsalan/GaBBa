@@ -1,0 +1,17 @@
+{
+  "dependencies": {
+    "discord.js": "^14.7.1"
+  },
+  "name": "gabba",
+  "version": "1.0.0",
+  "description": "Server Management Bot",
+  "main": "index.js",
+  "devDependencies": {
+    "eslint": "^8.33.0"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC"
+}
